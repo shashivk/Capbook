@@ -1,2 +1,2 @@
-# Capbook
+# Facebook clone
 Capbook Final Project
